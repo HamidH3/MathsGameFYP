@@ -35,5 +35,6 @@ export default {
 <style scoped>
 body {
   font-family: 'Arial', sans-serif;
+  
 }
 </style>

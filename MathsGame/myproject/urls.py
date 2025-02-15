@@ -22,6 +22,7 @@ urlpatterns = [
     path('', lambda request: redirect('game/', permanent=False)), 
     path('game/', include('game.urls')),
     path('admin/', admin.site.urls),
+    
    
     
     

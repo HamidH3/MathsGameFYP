@@ -55,6 +55,8 @@
     width: 80vw;
     height: 80vh;
     border: none;
+    border-radius: 5rem;
+    border: 2rem ridge black
   }
   </style>
   
